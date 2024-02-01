@@ -1,0 +1,7 @@
+C:\Users\Teja\Desktop\Dot-Net+ANgular\VS Codes\Day3(01-02-2024)\Design_Patterns(Exercise-1)\bin\Debug\Design_Patterns(Exercise-1).exe.config
+C:\Users\Teja\Desktop\Dot-Net+ANgular\VS Codes\Day3(01-02-2024)\Design_Patterns(Exercise-1)\bin\Debug\Design_Patterns(Exercise-1).exe
+C:\Users\Teja\Desktop\Dot-Net+ANgular\VS Codes\Day3(01-02-2024)\Design_Patterns(Exercise-1)\bin\Debug\Design_Patterns(Exercise-1).pdb
+C:\Users\Teja\Desktop\Dot-Net+ANgular\VS Codes\Day3(01-02-2024)\Design_Patterns(Exercise-1)\obj\Debug\Design_Patterns(Exercise-1).csproj.AssemblyReference.cache
+C:\Users\Teja\Desktop\Dot-Net+ANgular\VS Codes\Day3(01-02-2024)\Design_Patterns(Exercise-1)\obj\Debug\Design_Patterns(Exercise-1).csproj.CoreCompileInputs.cache
+C:\Users\Teja\Desktop\Dot-Net+ANgular\VS Codes\Day3(01-02-2024)\Design_Patterns(Exercise-1)\obj\Debug\Design_Patterns(Exercise-1).exe
+C:\Users\Teja\Desktop\Dot-Net+ANgular\VS Codes\Day3(01-02-2024)\Design_Patterns(Exercise-1)\obj\Debug\Design_Patterns(Exercise-1).pdb
